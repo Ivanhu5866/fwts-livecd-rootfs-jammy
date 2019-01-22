@@ -7,4 +7,5 @@ upstream's `ubuntu/bionic` branch.
 
 If you are a developer, you should track upstream so that you can
 rebase from it when there are updates:
+
     $ git remote add livecd-rootfs https://git.launchpad.net/livecd-rootfs
